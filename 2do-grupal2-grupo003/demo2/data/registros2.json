@@ -1,0 +1,24 @@
+	[
+    	{
+        "estudiante": {
+            "nombres": "Lokesh T",
+            "asignatura": "Programación",
+			      "calificacion": "20"
+        	}
+    	},
+      {
+        "estudiante": {
+            "nombres": "Bolivar G",
+            "asignatura": "Programación",
+			      "calificacion": "17"
+        	}
+    	},
+      {
+        "estudiante": {
+            "nombres": "María S",
+            "asignatura": "Programación",
+			      "calificacion": "15"
+        	}
+    	}
+
+  ]
