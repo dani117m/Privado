@@ -1,0 +1,36 @@
+Ejercicio Grupal para el manejo de excepciones.
+Lenguaje de programación: Python
+
+Se desea generar una aplicación de venta de celulares.
+Por cada celular si ingresa lo siguiente:
+Marca:
+Modelo:
+Costo:
+Pais de origen:
+
+Se ingresan tantos celulares como quiere el usuario.
+
+Se debe imprimir el siguiente reporte al final del proceso de ingreso de datos:
+
+Listado de Celulares Vendidos:
+
+Celular 1:
+Marca:
+Modelo:
+Costo:
+País de origen
+
+
+Celular n:
+Marca:
+Modelo:
+Costo:
+País de origen
+
+Total de celulares vendidos: $
+
+
+Tomar en consideración las siguientes observaciones:
+- Los celulares de marca huawei no pueden ser ingresados. (Debe genear un excepción personalizada que maneje el evento)
+- Los celulares de paises como (EEUU, China) no pueden ser ingresados. (Debe genear un excepción personalizada que maneje el evento)
+- Si al momento de ingresar el costo, se ingresa un valor NO numérico debe capturar la exepción. (Debe usar una excepción propia del lenguaje de programación)
