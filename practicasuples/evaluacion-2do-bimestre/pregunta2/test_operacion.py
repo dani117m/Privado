@@ -2,9 +2,8 @@
     Desarrollo Dirigido por Pruebas
     https://docs.pytest.org/en/latest/index.html
 """
-import sys
-sys.path.append('../')
-from operacion import obtener_adicion
+
+from operacion import *
  
 def test_adicion():
     """
