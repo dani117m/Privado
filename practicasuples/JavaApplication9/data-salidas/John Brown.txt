@@ -1,0 +1,7 @@
+Boleta de Calificaciones de 
+John Brown
+Notas: 19 10 16
+Promedio: 15.0
+Promocion: Si
+Direccion: WEST KENNETHBERG
+
